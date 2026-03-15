@@ -1,0 +1,1252 @@
+[
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is refusing to eat food.",
+    "output": "Keep consequences logical and calm. Stay calm and validate feelings. Model the behavior you expect. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is saying 'I am not good at anything'.",
+    "output": "Keep consequences logical and calm. Schedule focused one-on-one time. Use short breaks and return to task. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is fear of sleeping alone.",
+    "output": "Avoid shaming and focus on guidance. Praise effort instead of outcome. Use short breaks and return to task. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is not listening to instructions.",
+    "output": "Keep consequences logical and calm. Create predictable routines. Model the behavior you expect. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying without clear reason.",
+    "output": "Model the behavior you expect. Offer limited choices to encourage cooperation. Praise effort instead of outcome. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is crying after losing a game.",
+    "output": "Create predictable routines. Offer limited choices to encourage cooperation. Schedule focused one-on-one time. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is throwing tantrum in public.",
+    "output": "Praise effort instead of outcome. Schedule focused one-on-one time. Teach simple coping skills like deep breathing. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is jealousy toward sibling.",
+    "output": "Model the behavior you expect. Maintain eye contact and speak gently. Schedule focused one-on-one time. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is fighting with sibling.",
+    "output": "Keep consequences logical and calm. Use short breaks and return to task. Reinforce positive behavior immediately. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is crying without clear reason.",
+    "output": "Reinforce positive behavior immediately. Set clear and consistent boundaries. Praise effort instead of outcome. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is attention-seeking behavior.",
+    "output": "Reduce distractions during conversations. Create predictable routines. Stay calm and validate feelings. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is saying 'I am not good at anything'.",
+    "output": "Offer limited choices to encourage cooperation. Keep consequences logical and calm. Encourage problem-solving discussion. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is hitting or pushing others.",
+    "output": "Create predictable routines. Model the behavior you expect. Reinforce positive behavior immediately. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is not finishing homework.",
+    "output": "Create predictable routines. Avoid shaming and focus on guidance. Reduce distractions during conversations. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is not listening to instructions.",
+    "output": "Avoid shaming and focus on guidance. Create predictable routines. Set clear and consistent boundaries. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is procrastinating study.",
+    "output": "Set clear and consistent boundaries. Create predictable routines. Encourage problem-solving discussion. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is asking for expensive items due to peer pressure.",
+    "output": "Maintain eye contact and speak gently. Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is procrastinating study.",
+    "output": "Reduce distractions during conversations. Offer limited choices to encourage cooperation. Schedule focused one-on-one time. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is not listening to instructions.",
+    "output": "Encourage problem-solving discussion. Create predictable routines. Offer limited choices to encourage cooperation. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is avoiding responsibilities.",
+    "output": "Stay calm and validate feelings. Keep consequences logical and calm. Teach simple coping skills like deep breathing. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is excessive screen time demand.",
+    "output": "Avoid shaming and focus on guidance. Offer limited choices to encourage cooperation. Schedule focused one-on-one time. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is difficulty sharing toys.",
+    "output": "Stay calm and validate feelings. Teach simple coping skills like deep breathing. Praise effort instead of outcome. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is not listening to instructions.",
+    "output": "Reduce distractions during conversations. Offer limited choices to encourage cooperation. Keep consequences logical and calm. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is refusing to go to school.",
+    "output": "Encourage problem-solving discussion. Create predictable routines. Offer limited choices to encourage cooperation. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is refusing to eat food.",
+    "output": "Model the behavior you expect. Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is procrastinating study.",
+    "output": "Create predictable routines. Model the behavior you expect. Encourage problem-solving discussion. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is procrastinating study.",
+    "output": "Praise effort instead of outcome. Stay calm and validate feelings. Maintain eye contact and speak gently. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is talking back to parents.",
+    "output": "Praise effort instead of outcome. Reinforce positive behavior immediately. Reduce distractions during conversations. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is morning routine delays.",
+    "output": "Stay calm and validate feelings. Praise effort instead of outcome. Keep consequences logical and calm. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is bedtime resistance.",
+    "output": "Keep consequences logical and calm. Model the behavior you expect. Schedule focused one-on-one time. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is talking back to parents.",
+    "output": "Maintain eye contact and speak gently. Create predictable routines. Reduce distractions during conversations. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is excessive screen time demand.",
+    "output": "Offer limited choices to encourage cooperation. Avoid shaming and focus on guidance. Reinforce positive behavior immediately. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is attention-seeking behavior.",
+    "output": "Teach simple coping skills like deep breathing. Reduce distractions during conversations. Offer limited choices to encourage cooperation. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is lying about a mistake.",
+    "output": "Maintain eye contact and speak gently. Avoid shaming and focus on guidance. Model the behavior you expect. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is over-dependence on parent.",
+    "output": "Reduce distractions during conversations. Set clear and consistent boundaries. Create predictable routines. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is fear of sleeping alone.",
+    "output": "Keep consequences logical and calm. Reduce distractions during conversations. Avoid shaming and focus on guidance. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is bedtime resistance.",
+    "output": "Stay calm and validate feelings. Model the behavior you expect. Encourage problem-solving discussion. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is hitting or pushing others.",
+    "output": "Create predictable routines. Avoid shaming and focus on guidance. Keep consequences logical and calm. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is excessive screen time demand.",
+    "output": "Avoid shaming and focus on guidance. Stay calm and validate feelings. Create predictable routines. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is hitting or pushing others.",
+    "output": "Reduce distractions during conversations. Model the behavior you expect. Set clear and consistent boundaries. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying without clear reason.",
+    "output": "Avoid shaming and focus on guidance. Reduce distractions during conversations. Set clear and consistent boundaries. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is jealousy toward sibling.",
+    "output": "Reduce distractions during conversations. Encourage problem-solving discussion. Stay calm and validate feelings. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is refusing to eat food.",
+    "output": "Offer limited choices to encourage cooperation. Keep consequences logical and calm. Avoid shaming and focus on guidance. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is procrastinating study.",
+    "output": "Set clear and consistent boundaries. Avoid shaming and focus on guidance. Stay calm and validate feelings. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is crying without clear reason.",
+    "output": "Schedule focused one-on-one time. Use short breaks and return to task. Encourage problem-solving discussion. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is refusing to go to school.",
+    "output": "Encourage problem-solving discussion. Model the behavior you expect. Reduce distractions during conversations. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is not listening to instructions.",
+    "output": "Schedule focused one-on-one time. Avoid shaming and focus on guidance. Maintain eye contact and speak gently. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is throwing tantrum in public.",
+    "output": "Reinforce positive behavior immediately. Avoid shaming and focus on guidance. Set clear and consistent boundaries. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is over-dependence on parent.",
+    "output": "Teach simple coping skills like deep breathing. Use short breaks and return to task. Reduce distractions during conversations. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is refusing to go to school.",
+    "output": "Teach simple coping skills like deep breathing. Use short breaks and return to task. Offer limited choices to encourage cooperation. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is refusing to eat food.",
+    "output": "Model the behavior you expect. Create predictable routines. Keep consequences logical and calm. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is asking for expensive items due to peer pressure.",
+    "output": "Reinforce positive behavior immediately. Offer limited choices to encourage cooperation. Stay calm and validate feelings. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is fear of sleeping alone.",
+    "output": "Reinforce positive behavior immediately. Model the behavior you expect. Encourage problem-solving discussion. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is anger outburst.",
+    "output": "Teach simple coping skills like deep breathing. Use short breaks and return to task. Encourage problem-solving discussion. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is saying 'I am not good at anything'.",
+    "output": "Reduce distractions during conversations. Schedule focused one-on-one time. Model the behavior you expect. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not listening to instructions.",
+    "output": "Keep consequences logical and calm. Stay calm and validate feelings. Create predictable routines. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is crying after losing a game.",
+    "output": "Keep consequences logical and calm. Avoid shaming and focus on guidance. Maintain eye contact and speak gently. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is saying 'I am not good at anything'.",
+    "output": "Reduce distractions during conversations. Reinforce positive behavior immediately. Teach simple coping skills like deep breathing. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is fear of sleeping alone.",
+    "output": "Model the behavior you expect. Create predictable routines. Offer limited choices to encourage cooperation. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is saying 'I am not good at anything'.",
+    "output": "Stay calm and validate feelings. Model the behavior you expect. Set clear and consistent boundaries. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is throwing tantrum in public.",
+    "output": "Model the behavior you expect. Create predictable routines. Reduce distractions during conversations. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is morning routine delays.",
+    "output": "Use short breaks and return to task. Set clear and consistent boundaries. Keep consequences logical and calm. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is asking for expensive items due to peer pressure.",
+    "output": "Avoid shaming and focus on guidance. Stay calm and validate feelings. Reinforce positive behavior immediately. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is throwing tantrum in public.",
+    "output": "Reinforce positive behavior immediately. Create predictable routines. Schedule focused one-on-one time. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is asking for expensive items due to peer pressure.",
+    "output": "Encourage problem-solving discussion. Schedule focused one-on-one time. Praise effort instead of outcome. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is talking back to parents.",
+    "output": "Stay calm and validate feelings. Schedule focused one-on-one time. Avoid shaming and focus on guidance. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is asking for expensive items due to peer pressure.",
+    "output": "Teach simple coping skills like deep breathing. Reinforce positive behavior immediately. Keep consequences logical and calm. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is fear of sleeping alone.",
+    "output": "Encourage problem-solving discussion. Use short breaks and return to task. Keep consequences logical and calm. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is fighting with sibling.",
+    "output": "Set clear and consistent boundaries. Stay calm and validate feelings. Model the behavior you expect. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is bedtime resistance.",
+    "output": "Set clear and consistent boundaries. Encourage problem-solving discussion. Reinforce positive behavior immediately. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is crying without clear reason.",
+    "output": "Offer limited choices to encourage cooperation. Set clear and consistent boundaries. Avoid shaming and focus on guidance. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is throwing tantrum in public.",
+    "output": "Reduce distractions during conversations. Reinforce positive behavior immediately. Model the behavior you expect. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is crying after losing a game.",
+    "output": "Schedule focused one-on-one time. Reduce distractions during conversations. Reinforce positive behavior immediately. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is avoiding responsibilities.",
+    "output": "Avoid shaming and focus on guidance. Create predictable routines. Offer limited choices to encourage cooperation. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is throwing tantrum in public.",
+    "output": "Offer limited choices to encourage cooperation. Model the behavior you expect. Praise effort instead of outcome. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is saying 'I am not good at anything'.",
+    "output": "Use short breaks and return to task. Stay calm and validate feelings. Reinforce positive behavior immediately. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is refusing to eat food.",
+    "output": "Offer limited choices to encourage cooperation. Teach simple coping skills like deep breathing. Set clear and consistent boundaries. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is morning routine delays.",
+    "output": "Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation. Maintain eye contact and speak gently. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is not finishing homework.",
+    "output": "Reduce distractions during conversations. Schedule focused one-on-one time. Avoid shaming and focus on guidance. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is morning routine delays.",
+    "output": "Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Stay calm and validate feelings. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is talking back to parents.",
+    "output": "Avoid shaming and focus on guidance. Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is avoiding responsibilities.",
+    "output": "Avoid shaming and focus on guidance. Schedule focused one-on-one time. Reduce distractions during conversations. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is over-dependence on parent.",
+    "output": "Reinforce positive behavior immediately. Keep consequences logical and calm. Schedule focused one-on-one time. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is lying about a mistake.",
+    "output": "Encourage problem-solving discussion. Model the behavior you expect. Use short breaks and return to task. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is crying after losing a game.",
+    "output": "Keep consequences logical and calm. Create predictable routines. Praise effort instead of outcome. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not finishing homework.",
+    "output": "Maintain eye contact and speak gently. Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is crying without clear reason.",
+    "output": "Reinforce positive behavior immediately. Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying after losing a game.",
+    "output": "Reduce distractions during conversations. Encourage problem-solving discussion. Set clear and consistent boundaries. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is difficulty sharing toys.",
+    "output": "Reinforce positive behavior immediately. Avoid shaming and focus on guidance. Schedule focused one-on-one time. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is avoiding responsibilities.",
+    "output": "Teach simple coping skills like deep breathing. Reinforce positive behavior immediately. Praise effort instead of outcome. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is refusing to go to school.",
+    "output": "Reduce distractions during conversations. Schedule focused one-on-one time. Set clear and consistent boundaries. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is fear of sleeping alone.",
+    "output": "Keep consequences logical and calm. Create predictable routines. Set clear and consistent boundaries. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is attention-seeking behavior.",
+    "output": "Reduce distractions during conversations. Keep consequences logical and calm. Stay calm and validate feelings. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is fighting with sibling.",
+    "output": "Model the behavior you expect. Set clear and consistent boundaries. Schedule focused one-on-one time. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is not finishing homework.",
+    "output": "Reinforce positive behavior immediately. Avoid shaming and focus on guidance. Set clear and consistent boundaries. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is bedtime resistance.",
+    "output": "Reduce distractions during conversations. Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is saying 'I am not good at anything'.",
+    "output": "Avoid shaming and focus on guidance. Praise effort instead of outcome. Encourage problem-solving discussion. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is difficulty sharing toys.",
+    "output": "Model the behavior you expect. Stay calm and validate feelings. Use short breaks and return to task. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is difficulty sharing toys.",
+    "output": "Teach simple coping skills like deep breathing. Maintain eye contact and speak gently. Use short breaks and return to task. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is asking for expensive items due to peer pressure.",
+    "output": "Encourage problem-solving discussion. Create predictable routines. Avoid shaming and focus on guidance. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is bedtime resistance.",
+    "output": "Create predictable routines. Encourage problem-solving discussion. Reinforce positive behavior immediately. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is morning routine delays.",
+    "output": "Stay calm and validate feelings. Set clear and consistent boundaries. Offer limited choices to encourage cooperation. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is hitting or pushing others.",
+    "output": "Model the behavior you expect. Maintain eye contact and speak gently. Use short breaks and return to task. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is anger outburst.",
+    "output": "Encourage problem-solving discussion. Use short breaks and return to task. Create predictable routines. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is refusing to eat food.",
+    "output": "Reduce distractions during conversations. Maintain eye contact and speak gently. Create predictable routines. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is fighting with sibling.",
+    "output": "Reduce distractions during conversations. Schedule focused one-on-one time. Reinforce positive behavior immediately. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is anger outburst.",
+    "output": "Avoid shaming and focus on guidance. Teach simple coping skills like deep breathing. Praise effort instead of outcome. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is refusing to eat food.",
+    "output": "Use short breaks and return to task. Teach simple coping skills like deep breathing. Create predictable routines. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is not finishing homework.",
+    "output": "Maintain eye contact and speak gently. Reduce distractions during conversations. Set clear and consistent boundaries. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is not finishing homework.",
+    "output": "Reinforce positive behavior immediately. Praise effort instead of outcome. Maintain eye contact and speak gently. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is lying about a mistake.",
+    "output": "Encourage problem-solving discussion. Set clear and consistent boundaries. Keep consequences logical and calm. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is bedtime resistance.",
+    "output": "Model the behavior you expect. Create predictable routines. Teach simple coping skills like deep breathing. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is difficulty sharing toys.",
+    "output": "Create predictable routines. Stay calm and validate feelings. Reduce distractions during conversations. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is morning routine delays.",
+    "output": "Avoid shaming and focus on guidance. Offer limited choices to encourage cooperation. Model the behavior you expect. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is fighting with sibling.",
+    "output": "Offer limited choices to encourage cooperation. Praise effort instead of outcome. Teach simple coping skills like deep breathing. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is anger outburst.",
+    "output": "Stay calm and validate feelings. Encourage problem-solving discussion. Set clear and consistent boundaries. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is refusing to go to school.",
+    "output": "Maintain eye contact and speak gently. Avoid shaming and focus on guidance. Reinforce positive behavior immediately. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is procrastinating study.",
+    "output": "Teach simple coping skills like deep breathing. Schedule focused one-on-one time. Reduce distractions during conversations. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is crying after losing a game.",
+    "output": "Avoid shaming and focus on guidance. Schedule focused one-on-one time. Set clear and consistent boundaries. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is refusing to eat food.",
+    "output": "Offer limited choices to encourage cooperation. Praise effort instead of outcome. Teach simple coping skills like deep breathing. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is not finishing homework.",
+    "output": "Keep consequences logical and calm. Set clear and consistent boundaries. Reduce distractions during conversations. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is fighting with sibling.",
+    "output": "Schedule focused one-on-one time. Praise effort instead of outcome. Encourage problem-solving discussion. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is crying without clear reason.",
+    "output": "Reinforce positive behavior immediately. Keep consequences logical and calm. Reduce distractions during conversations. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is fighting with sibling.",
+    "output": "Set clear and consistent boundaries. Teach simple coping skills like deep breathing. Avoid shaming and focus on guidance. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is throwing tantrum in public.",
+    "output": "Teach simple coping skills like deep breathing. Reinforce positive behavior immediately. Stay calm and validate feelings. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is saying 'I am not good at anything'.",
+    "output": "Reduce distractions during conversations. Use short breaks and return to task. Praise effort instead of outcome. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is avoiding responsibilities.",
+    "output": "Model the behavior you expect. Encourage problem-solving discussion. Teach simple coping skills like deep breathing. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is anger outburst.",
+    "output": "Reinforce positive behavior immediately. Keep consequences logical and calm. Create predictable routines. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is crying without clear reason.",
+    "output": "Reinforce positive behavior immediately. Keep consequences logical and calm. Praise effort instead of outcome. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is complaining about bullying.",
+    "output": "Create predictable routines. Praise effort instead of outcome. Teach simple coping skills like deep breathing. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is not finishing homework.",
+    "output": "Stay calm and validate feelings. Avoid shaming and focus on guidance. Reduce distractions during conversations. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is throwing tantrum in public.",
+    "output": "Create predictable routines. Stay calm and validate feelings. Avoid shaming and focus on guidance. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is fighting with sibling.",
+    "output": "Offer limited choices to encourage cooperation. Praise effort instead of outcome. Keep consequences logical and calm. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is crying after losing a game.",
+    "output": "Reinforce positive behavior immediately. Stay calm and validate feelings. Create predictable routines. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is throwing tantrum in public.",
+    "output": "Reinforce positive behavior immediately. Encourage problem-solving discussion. Set clear and consistent boundaries. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is complaining about bullying.",
+    "output": "Set clear and consistent boundaries. Praise effort instead of outcome. Keep consequences logical and calm. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is morning routine delays.",
+    "output": "Use short breaks and return to task. Encourage problem-solving discussion. Model the behavior you expect. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is over-dependence on parent.",
+    "output": "Maintain eye contact and speak gently. Model the behavior you expect. Reinforce positive behavior immediately. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not finishing homework.",
+    "output": "Encourage problem-solving discussion. Reinforce positive behavior immediately. Set clear and consistent boundaries. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is crying after losing a game.",
+    "output": "Teach simple coping skills like deep breathing. Avoid shaming and focus on guidance. Maintain eye contact and speak gently. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is hitting or pushing others.",
+    "output": "Praise effort instead of outcome. Schedule focused one-on-one time. Avoid shaming and focus on guidance. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is attention-seeking behavior.",
+    "output": "Reinforce positive behavior immediately. Schedule focused one-on-one time. Model the behavior you expect. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is excessive screen time demand.",
+    "output": "Set clear and consistent boundaries. Offer limited choices to encourage cooperation. Use short breaks and return to task. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is bedtime resistance.",
+    "output": "Stay calm and validate feelings. Praise effort instead of outcome. Set clear and consistent boundaries. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is difficulty sharing toys.",
+    "output": "Praise effort instead of outcome. Offer limited choices to encourage cooperation. Maintain eye contact and speak gently. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is refusing to go to school.",
+    "output": "Offer limited choices to encourage cooperation. Maintain eye contact and speak gently. Reinforce positive behavior immediately. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is excessive screen time demand.",
+    "output": "Encourage problem-solving discussion. Keep consequences logical and calm. Avoid shaming and focus on guidance. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is attention-seeking behavior.",
+    "output": "Reduce distractions during conversations. Reinforce positive behavior immediately. Avoid shaming and focus on guidance. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is fighting with sibling.",
+    "output": "Create predictable routines. Avoid shaming and focus on guidance. Teach simple coping skills like deep breathing. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is not listening to instructions.",
+    "output": "Model the behavior you expect. Encourage problem-solving discussion. Keep consequences logical and calm. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is refusing to go to school.",
+    "output": "Reinforce positive behavior immediately. Encourage problem-solving discussion. Schedule focused one-on-one time. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is crying after losing a game.",
+    "output": "Offer limited choices to encourage cooperation. Avoid shaming and focus on guidance. Reduce distractions during conversations. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is jealousy toward sibling.",
+    "output": "Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation. Praise effort instead of outcome. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is throwing tantrum in public.",
+    "output": "Praise effort instead of outcome. Teach simple coping skills like deep breathing. Maintain eye contact and speak gently. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is not listening to instructions.",
+    "output": "Praise effort instead of outcome. Reduce distractions during conversations. Use short breaks and return to task. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is procrastinating study.",
+    "output": "Stay calm and validate feelings. Avoid shaming and focus on guidance. Keep consequences logical and calm. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is avoiding responsibilities.",
+    "output": "Praise effort instead of outcome. Create predictable routines. Reinforce positive behavior immediately. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is refusing to go to school.",
+    "output": "Stay calm and validate feelings. Reduce distractions during conversations. Reinforce positive behavior immediately. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is excessive screen time demand.",
+    "output": "Maintain eye contact and speak gently. Schedule focused one-on-one time. Reduce distractions during conversations. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is excessive screen time demand.",
+    "output": "Use short breaks and return to task. Encourage problem-solving discussion. Reinforce positive behavior immediately. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is over-dependence on parent.",
+    "output": "Reduce distractions during conversations. Keep consequences logical and calm. Maintain eye contact and speak gently. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is saying 'I am not good at anything'.",
+    "output": "Stay calm and validate feelings. Maintain eye contact and speak gently. Teach simple coping skills like deep breathing. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is bedtime resistance.",
+    "output": "Keep consequences logical and calm. Schedule focused one-on-one time. Use short breaks and return to task. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not finishing homework.",
+    "output": "Stay calm and validate feelings. Reduce distractions during conversations. Praise effort instead of outcome. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is lying about a mistake.",
+    "output": "Encourage problem-solving discussion. Offer limited choices to encourage cooperation. Stay calm and validate feelings. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is complaining about bullying.",
+    "output": "Praise effort instead of outcome. Set clear and consistent boundaries. Reduce distractions during conversations. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is fear of sleeping alone.",
+    "output": "Use short breaks and return to task. Schedule focused one-on-one time. Reinforce positive behavior immediately. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is asking for expensive items due to peer pressure.",
+    "output": "Maintain eye contact and speak gently. Avoid shaming and focus on guidance. Reduce distractions during conversations. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is not finishing homework.",
+    "output": "Keep consequences logical and calm. Offer limited choices to encourage cooperation. Avoid shaming and focus on guidance. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is talking back to parents.",
+    "output": "Model the behavior you expect. Set clear and consistent boundaries. Keep consequences logical and calm. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is talking back to parents.",
+    "output": "Offer limited choices to encourage cooperation. Model the behavior you expect. Schedule focused one-on-one time. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is difficulty sharing toys.",
+    "output": "Encourage problem-solving discussion. Stay calm and validate feelings. Use short breaks and return to task. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not listening to instructions.",
+    "output": "Model the behavior you expect. Maintain eye contact and speak gently. Teach simple coping skills like deep breathing. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is lying about a mistake.",
+    "output": "Offer limited choices to encourage cooperation. Model the behavior you expect. Encourage problem-solving discussion. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is throwing tantrum in public.",
+    "output": "Keep consequences logical and calm. Teach simple coping skills like deep breathing. Reduce distractions during conversations. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is procrastinating study.",
+    "output": "Reinforce positive behavior immediately. Praise effort instead of outcome. Offer limited choices to encourage cooperation. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is hitting or pushing others.",
+    "output": "Stay calm and validate feelings. Model the behavior you expect. Create predictable routines. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is throwing tantrum in public.",
+    "output": "Stay calm and validate feelings. Encourage problem-solving discussion. Avoid shaming and focus on guidance. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is anger outburst.",
+    "output": "Keep consequences logical and calm. Reinforce positive behavior immediately. Model the behavior you expect. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is excessive screen time demand.",
+    "output": "Praise effort instead of outcome. Reduce distractions during conversations. Create predictable routines. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is not listening to instructions.",
+    "output": "Set clear and consistent boundaries. Reinforce positive behavior immediately. Praise effort instead of outcome. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is anger outburst.",
+    "output": "Create predictable routines. Stay calm and validate feelings. Offer limited choices to encourage cooperation. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is hitting or pushing others.",
+    "output": "Praise effort instead of outcome. Create predictable routines. Stay calm and validate feelings. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is saying 'I am not good at anything'.",
+    "output": "Offer limited choices to encourage cooperation. Teach simple coping skills like deep breathing. Use short breaks and return to task. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is difficulty sharing toys.",
+    "output": "Model the behavior you expect. Stay calm and validate feelings. Encourage problem-solving discussion. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is talking back to parents.",
+    "output": "Encourage problem-solving discussion. Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is lying about a mistake.",
+    "output": "Stay calm and validate feelings. Model the behavior you expect. Keep consequences logical and calm. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is lying about a mistake.",
+    "output": "Teach simple coping skills like deep breathing. Maintain eye contact and speak gently. Stay calm and validate feelings. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is hitting or pushing others.",
+    "output": "Praise effort instead of outcome. Reduce distractions during conversations. Use short breaks and return to task. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is lying about a mistake.",
+    "output": "Set clear and consistent boundaries. Keep consequences logical and calm. Praise effort instead of outcome. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying without clear reason.",
+    "output": "Use short breaks and return to task. Create predictable routines. Stay calm and validate feelings. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is refusing to eat food.",
+    "output": "Reinforce positive behavior immediately. Maintain eye contact and speak gently. Stay calm and validate feelings. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is morning routine delays.",
+    "output": "Stay calm and validate feelings. Reduce distractions during conversations. Praise effort instead of outcome. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is morning routine delays.",
+    "output": "Set clear and consistent boundaries. Offer limited choices to encourage cooperation. Avoid shaming and focus on guidance. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is over-dependence on parent.",
+    "output": "Stay calm and validate feelings. Teach simple coping skills like deep breathing. Maintain eye contact and speak gently. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is hitting or pushing others.",
+    "output": "Teach simple coping skills like deep breathing. Avoid shaming and focus on guidance. Create predictable routines. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is anger outburst.",
+    "output": "Reduce distractions during conversations. Stay calm and validate feelings. Create predictable routines. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is saying 'I am not good at anything'.",
+    "output": "Offer limited choices to encourage cooperation. Teach simple coping skills like deep breathing. Use short breaks and return to task. Reduce distractions during conversations."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not listening to instructions.",
+    "output": "Avoid shaming and focus on guidance. Stay calm and validate feelings. Keep consequences logical and calm. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is crying after losing a game.",
+    "output": "Avoid shaming and focus on guidance. Use short breaks and return to task. Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is crying after losing a game.",
+    "output": "Teach simple coping skills like deep breathing. Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is asking for expensive items due to peer pressure.",
+    "output": "Maintain eye contact and speak gently. Use short breaks and return to task. Keep consequences logical and calm. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is anger outburst.",
+    "output": "Create predictable routines. Schedule focused one-on-one time. Use short breaks and return to task. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is lying about a mistake.",
+    "output": "Maintain eye contact and speak gently. Teach simple coping skills like deep breathing. Praise effort instead of outcome. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is jealousy toward sibling.",
+    "output": "Avoid shaming and focus on guidance. Praise effort instead of outcome. Create predictable routines. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is crying after losing a game.",
+    "output": "Schedule focused one-on-one time. Offer limited choices to encourage cooperation. Keep consequences logical and calm. Create predictable routines."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is avoiding responsibilities.",
+    "output": "Model the behavior you expect. Schedule focused one-on-one time. Praise effort instead of outcome. Reinforce positive behavior immediately."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is asking for expensive items due to peer pressure.",
+    "output": "Offer limited choices to encourage cooperation. Praise effort instead of outcome. Reduce distractions during conversations. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is procrastinating study.",
+    "output": "Model the behavior you expect. Stay calm and validate feelings. Praise effort instead of outcome. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is fighting with sibling.",
+    "output": "Reinforce positive behavior immediately. Teach simple coping skills like deep breathing. Create predictable routines. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is fighting with sibling.",
+    "output": "Model the behavior you expect. Encourage problem-solving discussion. Stay calm and validate feelings. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is saying 'I am not good at anything'.",
+    "output": "Offer limited choices to encourage cooperation. Maintain eye contact and speak gently. Schedule focused one-on-one time. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is not listening to instructions.",
+    "output": "Teach simple coping skills like deep breathing. Offer limited choices to encourage cooperation. Use short breaks and return to task. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is bedtime resistance.",
+    "output": "Reduce distractions during conversations. Keep consequences logical and calm. Avoid shaming and focus on guidance. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is jealousy toward sibling.",
+    "output": "Use short breaks and return to task. Schedule focused one-on-one time. Stay calm and validate feelings. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is excessive screen time demand.",
+    "output": "Create predictable routines. Schedule focused one-on-one time. Avoid shaming and focus on guidance. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is attention-seeking behavior.",
+    "output": "Offer limited choices to encourage cooperation. Reduce distractions during conversations. Keep consequences logical and calm. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is excessive screen time demand.",
+    "output": "Reduce distractions during conversations. Schedule focused one-on-one time. Encourage problem-solving discussion. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is hitting or pushing others.",
+    "output": "Keep consequences logical and calm. Encourage problem-solving discussion. Avoid shaming and focus on guidance. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is hitting or pushing others.",
+    "output": "Set clear and consistent boundaries. Maintain eye contact and speak gently. Reinforce positive behavior immediately. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is bedtime resistance.",
+    "output": "Teach simple coping skills like deep breathing. Keep consequences logical and calm. Use short breaks and return to task. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is complaining about bullying.",
+    "output": "Schedule focused one-on-one time. Stay calm and validate feelings. Keep consequences logical and calm. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is not finishing homework.",
+    "output": "Encourage problem-solving discussion. Keep consequences logical and calm. Create predictable routines. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is not listening to instructions.",
+    "output": "Use short breaks and return to task. Encourage problem-solving discussion. Keep consequences logical and calm. Avoid shaming and focus on guidance."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is saying 'I am not good at anything'.",
+    "output": "Praise effort instead of outcome. Create predictable routines. Stay calm and validate feelings. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is asking for expensive items due to peer pressure.",
+    "output": "Stay calm and validate feelings. Set clear and consistent boundaries. Model the behavior you expect. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is not finishing homework.",
+    "output": "Praise effort instead of outcome. Teach simple coping skills like deep breathing. Avoid shaming and focus on guidance. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is over-dependence on parent.",
+    "output": "Offer limited choices to encourage cooperation. Praise effort instead of outcome. Reinforce positive behavior immediately. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is complaining about bullying.",
+    "output": "Reinforce positive behavior immediately. Set clear and consistent boundaries. Model the behavior you expect. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying without clear reason.",
+    "output": "Keep consequences logical and calm. Use short breaks and return to task. Schedule focused one-on-one time. Set clear and consistent boundaries."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is difficulty sharing toys.",
+    "output": "Teach simple coping skills like deep breathing. Stay calm and validate feelings. Praise effort instead of outcome. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is hitting or pushing others.",
+    "output": "Avoid shaming and focus on guidance. Set clear and consistent boundaries. Offer limited choices to encourage cooperation. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 4-year-old is asking for expensive items due to peer pressure.",
+    "output": "Keep consequences logical and calm. Avoid shaming and focus on guidance. Model the behavior you expect. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 6-year-old is complaining about bullying.",
+    "output": "Reinforce positive behavior immediately. Praise effort instead of outcome. Keep consequences logical and calm. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying without clear reason.",
+    "output": "Model the behavior you expect. Encourage problem-solving discussion. Teach simple coping skills like deep breathing. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is saying 'I am not good at anything'.",
+    "output": "Use short breaks and return to task. Keep consequences logical and calm. Set clear and consistent boundaries. Model the behavior you expect."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is morning routine delays.",
+    "output": "Maintain eye contact and speak gently. Keep consequences logical and calm. Avoid shaming and focus on guidance. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is crying without clear reason.",
+    "output": "Keep consequences logical and calm. Schedule focused one-on-one time. Avoid shaming and focus on guidance. Use short breaks and return to task."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is attention-seeking behavior.",
+    "output": "Schedule focused one-on-one time. Avoid shaming and focus on guidance. Maintain eye contact and speak gently. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is complaining about bullying.",
+    "output": "Maintain eye contact and speak gently. Set clear and consistent boundaries. Avoid shaming and focus on guidance. Stay calm and validate feelings."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 2-year-old is crying without clear reason.",
+    "output": "Praise effort instead of outcome. Reduce distractions during conversations. Keep consequences logical and calm. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is anger outburst.",
+    "output": "Stay calm and validate feelings. Offer limited choices to encourage cooperation. Model the behavior you expect. Praise effort instead of outcome."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 9-year-old is procrastinating study.",
+    "output": "Model the behavior you expect. Maintain eye contact and speak gently. Praise effort instead of outcome. Teach simple coping skills like deep breathing."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is morning routine delays.",
+    "output": "Keep consequences logical and calm. Schedule focused one-on-one time. Avoid shaming and focus on guidance. Encourage problem-solving discussion."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 5-year-old is procrastinating study.",
+    "output": "Reduce distractions during conversations. Use short breaks and return to task. Avoid shaming and focus on guidance. Keep consequences logical and calm."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 10-year-old is morning routine delays.",
+    "output": "Keep consequences logical and calm. Reinforce positive behavior immediately. Praise effort instead of outcome. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 1-year-old is attention-seeking behavior.",
+    "output": "Stay calm and validate feelings. Teach simple coping skills like deep breathing. Avoid shaming and focus on guidance. Maintain eye contact and speak gently."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 3-year-old is anger outburst.",
+    "output": "Encourage problem-solving discussion. Model the behavior you expect. Stay calm and validate feelings. Schedule focused one-on-one time."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 7-year-old is avoiding responsibilities.",
+    "output": "Reduce distractions during conversations. Model the behavior you expect. Praise effort instead of outcome. Offer limited choices to encourage cooperation."
+  },
+  {
+    "instruction": "Provide parenting guidance",
+    "input": "My 8-year-old is talking back to parents.",
+    "output": "Create predictable routines. Set clear and consistent boundaries. Reinforce positive behavior immediately. Maintain eye contact and speak gently."
+  }
+]
